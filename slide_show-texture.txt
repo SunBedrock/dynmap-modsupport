@@ -1,0 +1,16 @@
+modname:slide_show
+
+texture:id=projector_base,filename=assets/slide_show/textures/block/projector_base.png,xcount=1,ycount=1
+texture:id=projector_main,filename=assets/slide_show/textures/block/projector_main.png,xcount=1,ycount=1
+block:id=%projector,state=facing:north/base:down,patch0=0:projector_base,patch1=0:projector_main,transparency=TRANSPARENT,stdrot=true
+block:id=%projector,state=facing:east/base:down,patch0=0:projector_base,patch1=0:projector_main,transparency=TRANSPARENT,stdrot=true
+block:id=%projector,state=facing:south/base:down,patch0=0:projector_base,patch1=0:projector_main,transparency=TRANSPARENT,stdrot=true
+block:id=%projector,state=facing:west/base:down,patch0=0:projector_base,patch1=0:projector_main,transparency=TRANSPARENT,stdrot=true
+block:id=%projector,state=facing:up/base:down,patch0=0:projector_base,patch1=0:projector_main,transparency=TRANSPARENT,stdrot=true
+block:id=%projector,state=facing:down/base:down,patch0=0:projector_base,patch1=0:projector_main,transparency=TRANSPARENT,stdrot=true
+block:id=%projector,state=facing:north/base:up,patch0=0:projector_base,patch1=0:projector_main,transparency=TRANSPARENT,stdrot=true
+block:id=%projector,state=facing:east/base:up,patch0=0:projector_base,patch1=0:projector_main,transparency=TRANSPARENT,stdrot=true
+block:id=%projector,state=facing:south/base:up,patch0=0:projector_base,patch1=0:projector_main,transparency=TRANSPARENT,stdrot=true
+block:id=%projector,state=facing:west/base:up,patch0=0:projector_base,patch1=0:projector_main,transparency=TRANSPARENT,stdrot=true
+block:id=%projector,state=facing:up/base:up,patch0=0:projector_base,patch1=0:projector_main,transparency=TRANSPARENT,stdrot=true
+block:id=%projector,state=facing:down/base:up,patch0=0:projector_base,patch1=0:projector_main,transparency=TRANSPARENT,stdrot=true

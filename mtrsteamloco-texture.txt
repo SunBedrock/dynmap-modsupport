@@ -1,0 +1,7 @@
+modname:mtrsteamloco
+
+texture:id=departure_bell,filename=assets/mtrsteamloco/textures/block/departure_bell.png,xcount=1,ycount=1
+block:id=%departure_bell,state=facing:north,patch0=0:departure_bell,transparency=TRANSPARENT,stdrot=true
+block:id=%departure_bell,state=facing:south,patch0=0:departure_bell,transparency=TRANSPARENT,stdrot=true
+block:id=%departure_bell,state=facing:west,patch0=0:departure_bell,transparency=TRANSPARENT,stdrot=true
+block:id=%departure_bell,state=facing:east,patch0=0:departure_bell,transparency=TRANSPARENT,stdrot=true
