@@ -6,4 +6,4 @@
 
 - ## 如何使用 ？
 
-   将存储库中的 .txt 文件放入 服务器根目录\dynmap\renderdata 文件夹。
+   将存储库中的`.txt`文件放入`服务器根目录\dynmap\renderdata`文件夹下。
